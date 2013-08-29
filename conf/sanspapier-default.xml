@@ -1,0 +1,13 @@
+DB_PATH=DB/databaseNeo4j
+foldername=file/Rameau
+deweyNeo=file/deweyCatalogV2.txt
+deweySql=file/deweyCatalogforSql.txt
+db.address=192.168.1.20
+db.port=3306
+db.name=catalog_20130618
+db.username=sp
+db.password=E33eur18_
+create.dewey=false
+create.rameau=false
+create.addBooksAndKeywords=true
+insert.files.count=0

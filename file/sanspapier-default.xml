@@ -1,0 +1,5 @@
+DB_PATH=DB/databaseNeo4j
+foldername=file/Rameau
+deweyNeo=file/deweyCatalogV2.txt
+deweySql=file/deweyCatalogforSql.txt
+

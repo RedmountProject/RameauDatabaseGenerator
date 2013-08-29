@@ -1,0 +1,996 @@
+000;Informatique, connaissances et ouvrages généraux
+001;Connaissances
+002;Livre (soit Meta écrits sur les livres)
+003;Systèmes
+004;Le traitement des données et de l'informatique
+005;Programmation informatique, les programmes et données
+006;Méthodes informatiques spéciaux
+010;Bibliographie, catalogue
+011;Bibliographie universelle, générale, par auteurs
+012;Bibliographie individuelle
+013;Bibliographies collectives par classes d'auteurs
+014;Bibliographies de formes spéciales, anonymes, pseudonymes,...
+015;Bibliographies nationales
+016;Sujets spéciaux : ouvrages pour enfants, de sciences,..
+017;Catalogues systématiques de bibliothèques, de ventes,...
+018;Catalogues par noms d'auteurs
+019;Catalogue dictionnaire
+020;Bibliothéconomie, bibliothèques
+021;But, fondation, développement, législation
+022;Locaux et installation matérielle
+023;Administration centrale. Direction et services, le personnel, son instruction technique
+024;Relations avec le public, réglements
+025;Organisation intérieure : achats, classification,... 
+026;Bibliothèques spécialisées (par la collection ou la clientèle)
+027;Bibliothèques générales : privées, scoalires, municipales, universitaires, paroissiales
+028;La lecture, conseils et aide aux lecteurs
+029;Méthode de travail intellectuel, prises de notes, classement,...
+030;Encyclopédies générales
+031;Américaines
+032;Anglaises
+033;Allemandes
+034;Françaises
+035;Italiennes
+036;Espagnoles
+037;Slaves
+038;Scandinaves
+039;Autres langues
+040;Collections générales d'essais
+041;Américains
+042;Anglais
+043;Allemands
+044;Français
+045;Italiens
+046;Espagnoles
+047;Slaves
+048;Scandinaves
+049;Autres langues
+050;Périodiques généraux, revues
+051;Américains
+052;Anglais
+053;Allemands
+054;Français
+055;Italiens
+056;Espagnoles
+057;Slaves
+058;Scandinaves
+059;Autres langues
+060;Sociétés savantes générales, Académies
+061;Américains
+062;Anglais
+063;Allemands
+064;Français
+065;Italiens
+066;Espagnoles
+067;Slaves
+068;Scandinaves
+069;Musées : organisation, aménagements
+070;Périodiques généraux, journalisme
+071;Américains
+072;Anglais
+073;Allemands
+074;Français
+075;Italiens
+076;Espagnoles
+077;Slaves
+078;Scandinaves
+079;Autres langues
+080;Polygraphies, Collections d'écrits distincts non séparables
+081;collections en anglais américain
+082;collections en anglais
+083;collections dans d'autres langues germaniques
+084;collections en français, en occitan et catalan
+085;En italien, le roumain et langues apparentées
+086;collections en espagnol et portugais
+087;collections en langues slaves
+088;collections en langues scandinaves
+089;collections dans d'autres langues
+090;Manuscrits, livres rares
+091;Manuscrits, Autographes
+092;Livres xylographiques
+093;Incunables (ouvrages imprimés avant 1500)
+094;Editions rares : Elzévirs,...
+095;Reliures précieuses ou curieuses
+096;Ouvrages à illustrations de valeur ou imprimées sur matière précieuse
+097;Ex-libris
+098;Ouvrages prohibés, perdus, imaginaires,...
+099;Autres raretés, curiosités
+100;Philosophie en général
+101;Utilité, raison d'être
+102;Résumés, manuels, sommaires
+103;Dictionnaires
+104;Essais, conférences
+105;Périodiques, revues de philosophie
+106;Sociétés philosophiques
+107;Etude et enseignement de la philosophie
+108;Polygraphie, extraits, maximes,...
+109;Histoire de la philosophie, de l'esprit humain,...
+110;Métaphysique générale
+111;Ontologie
+112;Méthodologie
+113;Cosmologie
+114;Espace
+115;Temps
+116;Mouvement
+117;Matière
+118;Force
+119;Quantité, nombre
+120;Métaphysique spéciale
+121;Théorie de la connaissance, origine, limite
+122;Causalité, cause et effet
+123;Liberté et nécessité
+124;Téléologie, causes finales
+125;Le fini, l'infini
+126;La conscience, personnalité
+127;L'inconscience, automatisme
+128;L'âme (point de vue philosophique)
+129;Origine de l'âme individuelle
+130;Rapports du corps et de l'esprit
+131;Physiologie et hygièen mentale, psychothérapie
+132;Troubles mentaux, psychiatrie
+133;Occultisme, spiritisme, sorcellerie, magie, superstition
+134;Hypnotisme, clairvoyance, suggestion
+135;Sommeil, rêve, somnambulisme
+136;Caractères mentaux : influence du sexe, de l'âge, de l'hérédité,...
+137;personnalité, tempérament, caractère
+138;Physiognomonie
+139;Phrénologie
+140;Systèmes philosophiques
+141;Idéalisme, transcendantalisme
+142;Criticisme
+143;Intuition
+144;Empirisme
+145;Sensualisme
+146;Matérialisme, positivisme
+147;Panthéisme, monisme
+148;Eclectisme
+149;Autres systèmes philosophiques
+150;Psychologie
+151;Intelligence, facultés intellectuelles, les tests
+152;les sens
+153;Entendement, jugement
+154;Mémoire
+155;Imagination
+156;Facultés intuitives, raison
+157;Sensibilité, sentiments, émotions
+158;Appétits, instincts
+159;Volonté
+160;Logique, dialectique
+161;Induction
+162;Déduction
+163;Foi, consentement, assentiment
+164;Logique symbolique,...
+165;Sources d'erreurs, sophisme
+166;Syllogisme, enthynème
+167;Hypothèses
+168;Argument et persuasion
+169;Analogie, correspondance
+170;Morale, éthique
+171;Théorie, philosophie, conscience morale
+172;Morale civique
+173;Morale familiale
+174;Morale des diverses professions et occupations
+175;Morale dans les amusements et divertissements
+176;Morale sexuelle, pureté, immoralité
+177;Morale sociale
+178;Tempérance (stimulants, narcotiques,...)
+179;Morales diverses : presse, cruauté, vertus et vices divers
+180;Philosophes anciens
+181;Philosophes orientaux
+182;Philosophes grecs primitifs
+183;Sophistes, école socratique
+184;Ecole platonicienne
+185;Aristotéliciens
+186;Pyrrhoniens
+187;Epicuriens
+188;Stoïciens
+189;Philosophes chrétiens primitifs, philosophes du moyen âge
+190;Philosophes modernes
+191;Philosophes américains
+192;Philosophes anglais
+193;Philosophes allemands
+194;Philosophes français
+195;Philosophes italiens
+196;Philosophes espagnols
+197;Philosophes slaves
+198;Philosophes scandinaves
+199;Autres philosophes modernes
+200;Religion en général
+201;Philosophie, théories
+202;Résumés, manuels, sommaires, systèmes
+203;Dictionnaires, encyclopédies
+204;Essais, conférences, discussions, discours
+205;Périodiques, revues religieuses
+206;Sociétés, rapports,...
+207;Etude et enseignement, facultés, séminaires
+208;Polygraphie, extraits d'oeuvres
+209;Histoire de la religion en général
+210;Théologie et religion naturelle : point de vue philosophique et rationnel
+211;Déisme, théisme, athéisme
+212;Panthéisme, théosophie
+213;Création, évolution : point de vue religieux
+214;Providence, fatalisme, théodicée
+215;Religion et science. Christianisme et science
+216;Le bien, le mal, la dépravation
+217;Prière
+218;Vie future, immortalité, éternité
+219;Analogie, correspondances
+220;La Bible en général
+221;Ancien Testament
+222;Livres historiques
+223;Livres poétiques
+224;Livres prophétiques, prophètes
+225;Nouveau Testament
+226;Evangiles et Actes
+227;Epîtres
+228;Apocalypse
+229;Livres deutérocanoniques, apocryphes, pseudépigraphes
+230;Doctrines et dogmes chrétiens, théologie
+231;Dieu, Unité, la Trinité
+232;Jésus-Christ, christologie, vies du Christ
+233;L'homme, la chute, le péché, hérédité
+234;Le salut, la grâce, la foi, la rédemption, justification, prédestination, sanctification
+235;Les anges, démons, satan
+236;Eschatologie, fins dernières, mort
+237;Vie future, immortalité de l'âme
+238;Symboles et confessions de foi, catéchismes
+239;Apologétique, défense et preuves du Christianisme
+240;Théologie pratique, foi et piété personnelle
+241;Théologie morale, les commandements
+242;Ouvrages de méditations, contemplation, consolation
+243;Ouvrages d'exhortation à la repentance, d'évangélisation
+244;Ouvrages divers de tendance religieuse : romans,...
+245;Poésies religieuses, cantiques sans musique
+246;Art et symbolisme chrétiens au point de vue religieux
+247;Objets du culte : vêtements, mobilier et objets divers. Décoration des églises
+248;Religion et culte personnel. Conversion, ascétisme
+249;Culte de famille
+250;Oeuvres pastorales et paroissiales
+251;Homilétique, étude sur la prédication
+252;Sermons
+253;VIsites pastorales, cure d'âme, direction spirituelle
+254;Support du clergé : impôts, souscriptions, dons. Célibat des prêtres
+255;Activité paroissiale des membres d'un ordre religieux, confréries,...
+256;Sociétés laïques locales d'actvités paroissiales
+257;Ecoles, bibliothèques,.... paroissiales
+258;Oeuvres de bienfaisance paroissiales : malades, pauvres, affligés, déshérités,...
+259;Autres activités et oeuvres paroissiales
+260;L'Eglise, institution et oeuvre
+261;L'Eglise. Son influence sur les questions morales, ses relations avec les questions sociales, les travailleurs,...
+262;Organisation ecclésiastique. Hiérarchie, la paroisse, tradition, autorité,...
+263;Dimanche, Sabbath
+264;Culte public, liturgie, messe, Textes liturgiques
+265;Sacrements, confirmation, ordination, mariage, confession et absolution,...
+266;Missions intérieures et étrangères en général, évangélisation,...
+267;Associations religieuses générales, Unions Chrétiennes, Armée du Salut,...
+268;Ecoles du dimanche, catéchisme
+269;Missions dans les paroisses, retraites, réveils
+270;Histoire religieuse
+271;Ordres religieux
+272;Persécutions religieuses
+273;Hérésies et schismes : Gnotistes, Manichéens, Sabelliens, Ariens, Pélagiens, Jansénistes,...
+274;Histoire religieuse : Europe
+275;Histoire religieuse : Asie
+276;Histoire religieuse : Afrique
+277;Histoire religieuse : Amérique du Nord
+278;Histoire religieuse : Amérique du Sud
+279;Histoire religieuse : Océanie
+280;Eglises et sectes chrétiennes : leur état et leur histoire
+281;Eglise primitive jusqu'en 1054. Eglises orientales. Eglise grecque orthodoxe
+282;Eglise catholique romaine
+283;Eglise anglicane. Eglise épiscopale américaine
+284;Eglises protestantes. Le Protestantisme en général
+285;Eglise presbytérienne
+286;Eglise baptiste
+287;Eglise méthodiste
+288;Eglise unitaire
+289;Autres Eglises ou groupements religieux
+290;Autres religions
+291;Mythologie générale et comparée
+292;Religion et mythologie des Grecs et des Romains
+293;Religion et mythologie des Germains et des Scandinaves
+294;Brahmanisme, Bouddhisme
+295;Parsisme, Mithriacisme, Mazdéisme
+296;Judaïsme en général, coutumes, histoire moderne,...
+297;Islamisme, Mahométisme : ouvrages généraux,...
+298;Mormons
+299;Autres religions non chrétiennes, anciennes et modernes
+300;Sciences sociales en général
+301;Sociologie
+302;Interaction sociale
+303;Processus sociaux
+304;Influence des facteurs naturels sur les processus sociaux
+305;Groupes sociaux
+306;Culture et normes de comportement
+307;Communautés
+308;Sociographie
+309;Histoire des sciences sociales, enquêtes sociales, planning
+310;Statistique
+311;Méthodes statistiques
+312;Démographie
+314;Statistiques : Europe
+315;Statistiques : Asie
+316;Statistiques : Afrique
+317;Statistiques : Amérique du Nord
+318;Statistiques : Amérique du Sud
+319;Statistiques : Océanie
+320;Sciences politiques
+321;Formes de gouvernements et formes d'Etats : démocratie, monarchie, république
+322;L'Etat et les Eglises : aspects politiques de l'union ou de la séparation
+323;Politique intérieure, mouvements et questions des races et des langues, troubles, libertés...
+324;Elections, Suffrages
+325;Immigration, colonisation
+326;Esclavage, servage
+327;Politique internationale, étrangère
+328;Parlement, assemblées législatives
+329;Partis politiques
+330;Economie politique et sociale
+331;Travail et travailleurs
+332;Finance privée, banques, monnaies, crédit, Bourse
+333;Les biens fonciers, propriété, revenus et droits
+334;Coopération, mutualité
+335;Systèmes collectivistes : socialisme, communisme,...
+336;Finances publiques, le budget, les impôts, les emprunts, la dette publique
+337;Douanes, protection et libre-échange
+338;Protection des richesses, organisation économique
+339;Répartition et consommation des richesses, richesse et misère
+340;Droit en général. Droit comparé
+341;Droit internationnal, organisation, traités diplomatiques
+342;Droit public, constitutionnel
+343;Droit pénal
+344;Droit pénal militaire et maritime
+345;Droit privé, lois et procès : Etats-Unis
+346;Droit privé, lois et procès : Angleterre
+347;Droit civil, commercial, maritime, procédure et organisation juridique (Etats-Unis et Angleterre)
+348;Droit canon, ecclésiastique
+349;Droit civil, commercial, maritime... des autres pays (Droit français : 349.44)
+350;Administration publique
+351;Administration centrale, publique, en général
+352;Administration locale : départements, villes, communes
+353;Administration centrale, Etats-Unis
+354;Administration centrale, autres pays
+355;Art et science militaire en général
+356;Infanterie. Artillerie. Génie
+357;Cavalerie
+358;Aviation, services techniques de l'air
+359;Marine militaire, science navale
+360;Assistance, oeuvres sociales, institutions diverses
+361;Assistance, charité
+362;Oeuvres et établissements divers (hôpitaux, asiles,...)
+363;Associations politiques
+364;Etablissements de réforme, de relèvement, étude de la criminalité
+365;Etablissements pénitentiaires, disciplinaires
+366;Sociétés secrètes : Franc-maçonnerie,...
+367;Associations mondaines, clubs, cercles
+368;Assurances et sécurité sociale
+369;Associations diverses : anciens combattants, résistants, associations laïques de jeunesse
+370;Enseignement et éducation
+371;Professeurs, organisation scolaire, méthodes pédagogiques
+372;Enseignement élémentaire, primaire, jardins d'enfants
+373;Enseignement moyen, secondaire. Enseignement technique
+374;Education des adultes
+375;programmes d'enseignement. Curriculum
+376;Education féminine
+377;Education morale, religieuse et laïque
+378;Enseignement supérieur, universitaire
+379;Instruction publique officielle. Organisation générale, les illettrés
+380;Commerce, communications (politique, économique et social)
+381;Commerce intérieur, les commerçants
+382;Commerce extérieur et international : exportation, importation
+383;Postes
+384;Télégraphe, téléphone avec et sans fil
+385;Chemins de fer, tramways, métros,...
+386;Transports fluviaux et lacustres
+387;Transports maritimes et aériens
+388;Transports routiers
+389;Poids et mesures, standardisation
+390;Ethnographie. Coutumes, folklore
+391;Vêtements, costume, parure, soins de toilette
+392;Coutumes concernant la vie privée et familiale, naissance, mariage
+393;Coutumes funéraires
+394;Vie publique et sociale
+395;Cérémonial, étiquette, savoir-vivre
+396;Féminisme : travail, conditions et droit de la femme
+397;Populations nomades, tziganes
+398;Folklore : contes et légendes, croyances, coutumes et fêtes populaires, proverbes, dictons
+399;Moeurs de guerre
+400;Philologie
+401;Philosophie, origine du langage
+402;Résumés, manuels, sommaires
+403;Dictionnaires
+404;Essais
+405;Périodiques
+406;Sociétés
+407;Etudes et enseignements (philologie et langues)
+408;Polygraphie, différents genres de langues, langues internationales
+409;Histoire du langage, distribution des langues
+410;Philosophie et linguistique générale comparée
+411;Orthographe
+412;Etymologie, dérivations
+413;Lexicologie, dictionnaires polyglottes
+414;Phonétique
+415;Grammaire, syntaxe
+416;Prosodie, versification
+417;Inscriptions, paléographie, critique de texte
+418;Textes et sources de la philologie et de la linguistique
+419;Langages communiqués par signes et images : sourd-muet, mimique, hiéroglyphes
+420;Anglais
+421;Orthographe, phonétique
+422;Etymologie, dérivation
+423;Dictionnaires
+424;Synonymes, homonymes
+425;Grammaire
+426;Prosodie
+427;Dialectes, argot, vieil anglais
+428;Textes scolaires, étude de l'anglais
+429;Anglo-saxon
+430;Allemand
+431;Orthographe, phonétique
+432;Etymologie, dérivation
+433;Dictionnaires
+434;Synonymes, homonymes
+435;Grammaire
+436;Prosodie
+437;Dialectes, argot, vieil allemand
+438;Textes scolaires, étude de l'allemand
+439;Hollandais, scandinave, gothique
+440;Français
+441;Orthographe, phonétique
+442;Etymologie, dérivation
+443;Dictionnaires
+444;Synonymes, homonymes
+445;Grammaire
+446;Prosodie
+447;Dialectes, argot, vieux français
+448;Textes scolaires, étude du français
+449;Provençal, catalan
+450;Italien
+451;Orthographe, phonétique
+452;Etymologie, dérivation
+453;Dictionnaires
+454;Synonymes, homonymes
+455;Grammaire
+456;Prosodie
+457;Dialectes, argot, vieil italien
+458;Textes scolaires, étude de l'italien
+459;Roumain
+460;Espagnol
+461;Orthographe, phonétique
+462;Etymologie, dérivation
+463;Dictionnaires
+464;Synonymes, homonymes
+465;Grammaire
+466;Prosodie
+467;Dialectes, argot, vieil espagnol
+468;Textes scolaires, étude de l'espagnol
+469;Portugais
+470;Latin
+471;Orthographe, phonétique
+472;Etymologie, dérivation
+473;Dictionnaires
+474;Synonymes, homonymes
+475;Grammaire
+476;Prosodie
+477;Dialectes, argot
+478;Textes scolaires, étude du latin
+479;Autres langues italiques, latin médiéval et moderne
+480;Grec
+481;Orthographe, phonétique
+482;Etymologie, dérivation
+483;Dictionnaires
+484;Synonymes, homonymes
+485;Grammaire
+486;Prosodie
+487;Dialectes, argot, grec ancien
+488;Textes scolaires, étude du grec
+489;Autres langues helléniques, grec moderne
+490;Autres langues, groupes linguistiques
+491;Langues indo-européennes
+492;Langues sémitiques
+493;Langues hamitiques
+494;Langues turco-mongoles
+495;Langues sino-tibétaines
+496;Langues négro-africaines
+497;Langues de l'Amérique du Nord
+498;Langues de l'Amérique du Sud
+499;Langues malayo-polynésiennes
+500;Science en général
+501;Philosophie
+502;Résumés, manuels, science ancienne et médiévale
+503;Dictionnaires
+504;Essais
+505;Périodiques
+506;Sociétés
+507;Etude et enseignement, musée
+508;Polygraphie
+509;Histoire de la science
+510;Mathématiques
+511;Arithmétique
+512;Algèbre
+513;Géométrie
+514;Trigonométrie
+515;Géométrie descriptive, projections
+516;Géométrie analytique
+517;Calcul différentiel, intégral,...
+518;Procédés divers de calcul, nomographie, logarithmes
+519;Calcul des probabilités
+520;Astronomie, Géodésie
+521;Astronomie théorique, mécanique céleste
+522;Astronomie pratique, instruments, observations
+523;Astronomie descriptive : soleil, lune,...
+524;Cartes, observations, tables,...
+525;La terre : dimensions, mouvements, saisons,...
+526;Géodésie, topographie, cartographie
+527;Astronomie nautique, navigation
+528;Ephémérides, almanachs nautiques
+529;Chronologe, calendriers, mesure du temps, instruments de mesure, sabliers, montres,...
+530;Physique
+531;Mécanique rationnelle : statique, travail,...
+532;Fluides, liquides, hydraulique
+533;gaz, pneumatique, aérodynamie
+534;Son, vibrations, acoustique
+535;Lumière, optique
+536;Chaleur, thermodynamique
+537;Electricité, théorie générale, électricité statique, dynamique, magnétisme
+538;magnétisme
+539;Physique moléculaire, nucléaire, atomique
+540;Chimie
+541;Théorie, physico-chimie
+542;Chimie pratique et expérimentale
+543;Analyses en général, analyses des différents genres de produits
+544;Analyses qualitatives
+545;Analyses quantitatives
+546;Chimie inorganique
+547;Chimie organique
+548;Cristallographie
+549;Minéralogie
+550;Géologie, météorologie
+551;Géologie physique et dynamique, Météorologie, climatologie, stratigraphie
+552;Lithologie, étude des pierres et des roches, météorites
+553;Géologie économique, mines et gisements, minerais, pierres, eaux minérales...
+554;Géologie : Europe
+555;Géologie : Asie
+556;Géologie : Afrique
+557;Géologie : Amérique du Nord
+558;Géologie : Amérique du Sud
+559;Géologie : Océanie, régions polaires
+560;Paléontologie, fossiles
+561;Plantes
+562;Invertébrés
+563;Protozoaires,...
+564;Mollusques
+565;Articulés
+566;Vertébrés
+567;Poissons, amphibiens
+568;Reptiles, oiseaux
+569;Mammifères
+570;Préhistoire, anthropologie, biologie
+571;Archéologie préhistorique en général
+572;Anthropologie en général, ethnologie
+573;Anthropologie physique : histoire naturelle de l'homme
+574;Biologie
+575;Evolution des êtres organisés, hérédité
+576;Origine de la vie, protoplasme...
+577;La matière vivante, biochimie, mort...
+578;Techniques d'étude: microscopie, appareils...
+579;Collections d'histoire naturelle. Recherche et chasse aux spécimens. Conservation et présentation
+580;Botanique, plantes
+581;Botanique analytique
+582;Phanérogames
+583;Dicotylédones
+584;Monocotylédones
+585;Gymnospermes
+586;Cryptogames
+587;Ptéridophytes
+588;Briophytes
+589;Thallophytes
+590;Zoologie, animaux
+591;Zoologie analytique
+592;Invertébrés
+593;Protozoaires
+594;Mollusques,...
+595;Articulés, insectes,...
+596;Vertébrés
+597;Poissons, amphibiens, batraciens
+598;Reptiles, oiseaux
+599;Mammifères, l'homme (599.9)
+600;Sciences appliquées
+601;Philosophie
+602;Résumés, manuels, sommaires, formules
+603;Dictionnaires
+604;Essais
+605;Périodiques
+606;Sociétés, expositions, foires générales
+607;Etude et enseignement, écoles techniques
+608;Brevets, inventions
+609;Histoire des sciences appliquées en général
+610;Médecine
+611;Anatomie
+612;Physiologie, fonctions du corps humain et des organes
+613;Hygiène privée : nourriture, boisson, propreté,...
+614;Hygiène publique
+615;Pharmacie, thérapeutique
+616;Pathologie, maladies, traitements
+617;Chirurgie, blessures
+618;Gynécologie, obstétrique, maladie des femmes et des enfants
+619;Médecine comparative, vétérinaire
+620;Art de l'ingénieur
+621;Mécanique appliquée, constructions mécaniques
+622;exploitation des mines et carrières
+623;Génie militaire, génie naval
+624;Génie civil : ponts, charpentes, routes,...
+625;Chemins de fer, routes, chaussées : technique et construction
+626;Canaux
+627;Travaux hydrauliques, rivières, canaux, ports et barrages
+628;Travaux sanitaires : eau, égouts, assainissement des villes
+629;Autres branches de l'art de l'ingénieur. Locomotion sur routes, par eau, aérienne,...
+630;Agriculture
+631;Le sol, culture et exploitation, engrais
+632;Fléaux, maladies des plantes cultivées, insectes nuisibles
+633;Culture des céréales et herbacées
+634;Arboriculture, fruits, viticulture
+635;Horticulture, légumes
+636;Animaux domestiques, produits des animaux exploités
+637;Lait et produits laitiers
+638;Abeilles, vers à soie
+639;Chasse, pêche, pisciculture
+640;Economie domestique et ménagère
+641;Aliments et boissons, cuisine, composition et préparation
+642;Service de la table, repas
+643;Habitation : site, plan, aménagement intérieur
+644;Chauffage, éclairage, ventilation
+645;Mobilier, décoration, tapis, rideaux,...
+646;Vêtements et linge, le tissu, fabrication et entretien
+647;Organisation des ménages, le personnel, les comptes
+648;Blanchissage, nettoyage, entretien
+649;Chambres d'enfants et de malades, soins aux malades et aux enfants, éducation
+650;Commerce, communication et transports
+651;Organisation générale des bureaux
+652;Ecriture : matériel, machines, codes et chiffres
+653;Sténographie, écritures abrégées
+654;Télégraphe, téléphone avec et sans fil, signaux (exploitation)
+655;Arts graphiques, imprimerie, lithographie, reliure
+656;Exploitaion des transports par route, chemin de fer, bateaux
+657;Comptabilité, tenue des livres
+658;Organisation et méthodes commerciales
+659;Divers, publicité
+660;Industries chimiques
+661;Produits chimiques
+662;Pyrotechnie, explosifs, combustibles
+663;Boissons, breuvages
+664;Produits alimentaires, conserves
+665;huile, graisse, gaz,...
+666;Céramique : porcelaine, verre, terre cuite, plâtre, ciment, pierres artificielles
+667;Blanchiment, teinture, couleurs, encres, vernis
+668;Autres industries chimiques : savons, résines naturelles et colles de résines synthétiques, celluloïd, matières plastiques, parfums
+669;Métallurgie en général, histoire et essais des métaux
+670;Manufactures diverses
+671;Techniques de fabrication, objets en métaux divers
+672;Travail du fer et de l'acier
+673;Travail du cuivre, laiton, bronze
+674;Le bois, ses industries, outillage spécial
+675;Industries des cuirs et peaux
+676;Industries du papier, carton, cellulose
+677;Industries textiles
+678;Industries du caoutchouc
+679;Autres produits : manufacture du tabac,...
+680;Autres industries. Travaux d'amateurs. Artisanat
+681;Mécanisme de précision, optique, horlogerie, machines à écrire, instruments de musique,...
+682;Forge, maréchalerie, ferronerie
+683;Serrurerie, armurerie, quincaillerie
+684;Carrosserie, ébénisterie
+685;Sellerie, chaussures, gants, matériels de voyage, de camping, de sports et de jeux
+686;Reliure
+687;Vêtements, bonneterie
+688;Autres industries : jouets,...
+689;hehe
+690;Bâtiment, construction
+691;Matériaux de construction ;hehebriques, ciment, béton,...
+692;Plans, devis, contrats
+693;Terrassement et maçonnerie, plafonnage
+694;Charpente, menuiserie, escalier
+695;Toiture, couverture, plate-forme 
+696;Plomberie, installation du gaz, eau,...
+697;Chauffage, ventilation
+698;Peinture, vitrerie, papier, tapisseries,...
+699;Construction de voitures et wagons
+700;Beaux-arts
+701;Philosophie, utilité, esthétique
+702;Résumés, manuels, sommaires
+703;Dictionnaires
+704;Essais
+705;Périodiques
+706;Sociétés
+707;Etude et enseignement
+708;Musée, galeries d'art
+709;Histoire de l'art, les différents styles
+710;Parcs, paysages, urbanisme 
+711;Urbanisme : théories, méthodes, plans
+712;Parcs et jardins publics
+713;Propriétés privées, jardins,...
+714;Eaux : fontaines, lacs
+715;Haies, buissons, arbres
+716;Plantes, fleurs, rocailles
+717;Bosquets, sièges, points de vue
+718;Cimetières, monuments, mausolées
+719;Réserves naturelles et parcs nationaux
+720;Architecture, art monumental
+721;Construction : fondations, murs, voûtes,...
+722;Architecture ancienne : antiquité classique, orientale, précolombienne,...
+723;Architecture chrétienne, arabe, byzantine, médiévale
+724;Architecture moderne (Renaissance à nos jours)
+725;Architecture civile, industrielle, publique
+726;Architecture religieuse et ecclésiastique
+727;Architecture des bâtiments consacrés à l'enseignement, aux sciences, aux beaux-arts
+728;Architecture privée : maisons, villas,...
+729;Décoration, dessins, détails architecturaux, décoration en général
+730;Sculpture
+731;Matériel, technique
+732;Sculpture antique et sculpture primitive
+733;Sculpture grecque et romaine
+734;Sculpture médiévale
+735;Sculpture à partir de 1400
+736;Sculpture sur bois, sur pierre,...
+737;Monnaies, jetons, médailles
+738;Arts céramiques : poterie, porcelaine, émaux, mosaïque
+739;Arts du métal : orfèvrerie, bijouterie,...
+740;Dessin, Art décoratif
+741;Croquis, esquisses, caricature, illustrations, dessin publicitaire
+742;Perspective
+743;Anatomie, modèle vivant
+744;Dessin industriel, technique, scientifique
+745;Dessin d'ornementation : tissus, tapis, papier,...
+746;Tapisserie, broderie, Dentelle
+747;Décoration d'intérieur, peinture murale,...
+748;Verrerie, vitraux
+749;Ameublement artistique, cheminées,... Les styles
+750;Peinture
+751;Matériel technique
+752;Couleurs
+753;Peinture épique, mythologique, idéalistique
+754;Peinture de genre
+755;Peinture religieuse, ecclésiastique
+756;Peinture historique, batailles,...
+757;Portrait
+758;Paysage, marine, nature morte,... 
+759;Diverses écoles de peinture. Histoire de la peinture
+760;Gravures, estampes
+761;Bois
+762;Cuivre, acier
+763;Lithographie
+764;Chromolithographie. Affiches
+765;Gravure sur métal
+766;Mezzo-tinte, aquatinte
+767;Eau-forte, pointe sèche
+768;Gravure mécanique
+769;Collections de gravures
+770;Photographie
+771;Matériels, locaux, produits
+772;Procédés à base d'argent et autres matériaux
+773;Procédés divers : au charbon,...
+774;Reproduction et impression
+775;Photolithographie,...
+776;Photozincographie,...
+777;Photogravure, phototypographie,...
+778;Applications spéciales : photocopie, projections, photographie scientifique, cinéma
+779;Collections de photographies
+780;Musique : analyse, étude, histoire,... de la musique
+781;Théorie (solfège,...)
+782;Musique et chants dramatiques, théâtral
+783;Musique et chants religieux avec musique
+784;Musique et chants profanes (soli et choeurs). La voix (culture, soins,...)
+785;Musique d'ensemble, orchestrale
+786;Instruments à clavier : piano, orgue,...
+787;Instruments à cordes
+788;Instruments à vent
+789;Instruments à percussions, mécaniques
+790;Jeux, divertissements, sports
+791;Divertissements publics : concerts, cirques, foires, cortèges,...
+792;Théâtre, music-hall, ballets
+793;Jeux divers d'intérieur : théâtre de société, danses de salon,...
+794;Jeux de calcul : échec, billard,...
+795;Jeux de hasard : cartes, domino, roulette,...
+796;Sports et jeux en plein air : patinage, ski, cyclisme, camping, croquet, tennis, jeux avec ballon, football, etc...
+797;Canotage et yachting, planeurs,...
+798;Sports équestres : équitation, courses,...
+799;Chasse, pêche, tir à la cible en tant que sport
+800;Littérature en général
+801;Philosophie
+802;Résumés, manuels, sommaires
+803;Dictionnaires
+804;Essais
+805;Périodiques
+806;Sociétés
+807;Etudes et enseignements
+808;Rhétorique, composition littéraire, anthologie
+809;Histoire de la littérature en général
+810;Littérature américaine
+811;Poésie
+812;Théâtre
+813;Romans, contes, nouvelles
+814;Essais, témoignages
+815;Eloquence, discours
+816;Art épistolaire, lettres
+817;Satires, humour,...
+818;Mélanges littéraires
+819;Activités de puzzle
+820;Littérature de langue anglaise
+821;Poésie
+822;Théâtre
+823;Romans, contes, nouvelles
+824;Essais, témoignages
+825;Eloquence, discours
+826;Art épistolaire, lettres
+827;Satires, humour,...
+828;Mélanges littéraires
+829;Littérature anglo-saxonne
+830;Littérature de langue allemande
+831;Poésie
+832;Théâtre
+833;Romans, contes, nouvelles
+834;Essais, témoignages
+835;Eloquence, discours
+836;Art épistolaire, lettres
+837;Satires, humour,...
+838;Mélanges littéraires
+839;Autres littératures germaniques (hollandaise, scandinave, gothique)
+840;Littérature de langue française
+841;Poésie
+842;Théâtre
+843;Romans, contes, nouvelles
+844;Essais, témoignages
+845;Eloquence, discours
+846;Art épistolaire, lettres
+847;Satires, humour,...
+848;Mélanges littéraires
+849;Littérature provençale, catalane
+850;Littérature de langue italienne
+851;Poésie
+852;Théâtre
+853;Romans, contes, nouvelles
+854;Essais, témoignages
+855;Eloquence, discours
+856;Art épistolaire, lettres
+857;Satires, humour,...
+858;Mélanges littéraires
+859;Littérature roumaine, romanche
+860;Littérature de langue espagnole
+861;Poésie
+862;Théâtre
+863;Romans, contes, nouvelles
+864;Essais, témoignages
+865;Eloquence, discours
+866;Art épistolaire, lettres
+867;Satires, humour,...
+868;Mélanges littéraires
+869;Littérature portugaise, galicienne
+870;Littérature latine
+871;Poésie en général
+872;Poésie dramatique
+873;Poésie épique
+874;Poésie lyrique
+875;Eloquence, discours
+876;Art épistolaire, lettres
+877;Satires, humour,...
+878;Mélanges littéraires
+879;Littérature latine médiévale et moderne
+880;Littérature grecque
+881;Poésie en général
+882;Poésie dramatique
+883;Poésie épique
+884;Poésie lyrique
+885;Eloquence, discours
+886;Art épistolaire, lettres
+887;Satires, humour
+888;Mélanges littéraires
+889;Littérature grecque médiévale et moderne
+890;Littérature en langues diverses
+891;Indo-européenne 
+892;Sémitique
+893;Hamitique
+894;Turque, mongole, finnoise, hongroise,...
+895;Asiatiques
+896;Africaines
+897;Nord-Américaines
+898;Sud-Américaines et antillaises
+899;Malaise, polynésienne,...
+900;Histoire en général
+901;Philosophie, histoire de la civilisation
+902;Résumés,manuels d'histoire, chronologie
+903;Dictionnaires d'histoire
+904;Essais
+905;Périodiques, revues historiques
+906;Sociétés historiques
+907;Etude et enseignement de l'histoire
+908;Polygraphies historiques
+909;Histoire universelle, histoire générale moderne, depuis l'an 476
+910;Géographie, voyages
+911;Géographie, politique, historique
+912;Cartes, plans de villes, atlas
+913;Géographie, description, voyages, coutumes de chaque pays
+914;Europe : Géographie, descriptions, voyages, coutumes 
+915;Asie : Géographie, descriptions, voyages, coutumes
+916;Afrique : Géographie, descriptions, voyages, coutumes
+917;Amérique du Nord : Géographie, descriptions, voyages, coutumes
+918;Amérique du Sud : Géographie, descriptions, voyages, coutumes
+919;Océanie, des régions polaires : Géographie, descriptions, voyages, coutumes
+920;Biographies collectives
+921;Biographies collectives : Philosophes
+922;Biographies collectives : Religieux
+923;Biographies collectives : Sociologues
+924;Biographies collectives : Philologues
+925;Biographies collectives : Savants
+926;Biographies collectives : Techniciens
+927;Biographies collectives : Artistes
+928;Biographies collectives : Littérateurs
+929;Biographies collectives : Généalogie et héraldique
+930;Histoire générale ancienne et archéologie (avant l'an 476 : prise de Rome)
+931;Chine
+932;Egypte
+933;Judée, Palestine
+934;Inde
+935;Assyrie, Mésopotamie, Perse
+936;Les Germains, les Celtes
+937;Rome, Italie
+938;Grèce
+939;Autres pays (Asie mineure, Afrique du Nord,...)
+940;Europe : Histoire et archéologie médiévales et modernes (depuis 476 : prise de Rome)
+941;Commonwealth britannique
+942;Angleterre, Grande-Bretagne
+943;Allemagne
+944;France  
+945;Italie
+946;Espagne, Portugal
+947;Russie, U.R.S.S., Pays Baltes
+948;Scandinavie, Norvège, Suède, Danemark, Finlande
+949;Autres pays dEurope : Islande, Pays-Bas,Belgique, Luxembourg, Suisse,...
+950;Asie : Histoire et archéologie médiévales et modernes (depuis 476 : prise de Rome)
+951;Chine, Taïwan (Formose), Mongolie, Corée,...
+952;Japon
+953;Arabie, Yemen, Koweit,...
+954;Inde, Népal, pakistan, Ceylan,...
+955;Iran (Perse)
+956;Proche et Myen Orient, Asie mineure
+957;Sibérie, U.R.S.S. en Asie
+958;Asie Centrale, Afghanistan, Turkestan, Beloutchistan,...
+959;Asie du Sud-Est, Indochine, Birmanie, Thaïlande, Malaisie, Vietnam, Laos,...
+960;Afrique : Histoire et archéologie médiévales et modernes (depuis 476 : prise de Rome)
+961;Afrique du Nord et Maghreb
+962;Egypte
+963;Abyssinie, Ethiopie
+964;Maroc
+965;Algérie
+966;Afrique Centrale du Nord
+967;Afrique centrale Sud et Est
+968;Afrique du Sud
+969;Madagascar et îles de l'Océan Indien
+970;Amérique du Nord : Histoire et archéologie médiévales et modernes (depuis 476 : prise de Rome)
+971;Canada
+972;Mexique, Amérique centrale
+973;Etats-Unis
+974;Etats-Unis : Etats du nord-est
+975;Etats-Unis : Etats du sud-est
+976;Etats-Unis : Etats centraux (sud)
+977;Etats-Unis : Etats centraux (nord)
+978;Etats-Unis : Etats de l'ouest
+979;Etats-Unis : Etats du Pacifique, Alaska
+980;Amérique du Sud : Histoire et archéologie médiévales et modernes (depuis 476 : prise de Rome)
+981;Brésil
+982;Argentine, Patagonie
+983;Chili
+984;Bolivie
+985;Pérou
+986;Colombie
+987;Vénézuéla
+988;Guyannes
+989;Paraguay, Uruguay
+990;Océanie, Régions polaires : Histoire et archéologie médiévales et modernes (depuis 476 : prise de Rome)
+991;Malaisie, Insulinde, Indonésie
+992;Iles de la Sonde
+993;Mélanésie, Nouvelle Zélande, Nouvelle Calédonie
+994;Nouvelles Hébrides
+995;Australie, Tasmanie
+996;polynésie et Micronésie, Iles Marquises, Iles Hawaï,...
+997;Iles éparses
+998;Régions arctiques et régions polaires
+999;Régions antarctiques
